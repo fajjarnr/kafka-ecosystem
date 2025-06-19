@@ -92,4 +92,5 @@ kafka-console-consumer --bootstrap-server kafka1:19092 \
 ```
 a-abc
 b-bus
+c-def
 ```
